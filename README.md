@@ -59,7 +59,7 @@ void main()
 4. Проверяем, входит ли точка с введенными координатами в пределы заданной области, после чего выводим результат на экран
 5. Конец
 ### Блок-схема ###
-![](https://github.com/kiri4art/Lab6/blob/main/lab6task1alg.png)
+![](https://github.com/kiri4art/Lab6/blob/main/lab6task2alg.png)
 ## 2. Реализация программы ##
 ```
 #define _CRT_SECURE_NO_DEPRECATE
